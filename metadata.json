@@ -1,0 +1,7 @@
+{
+  "name": "Stagehand Career Pilot",
+  "description": "An automated career assistant that uses browser-like automation concepts to find, analyze, and prepare you for your next dream job.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
